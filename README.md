@@ -2,7 +2,7 @@
 Python implementation of the instagram basic api login as outlined here: https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
 
 
-# instructions
+# Instructions
 
 1. Export APP_ID and APP_SECRET environmental variables
 2. Create config.ini file in the following format
