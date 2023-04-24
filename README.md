@@ -13,6 +13,8 @@ DASHBOARD_URI = https://somewebsite:5000/dashboard
 ```
 
 3. Add the url above the the hostfile as follows:
-`127.0.0.1 somewebsite.com`
+```
+127.0.0.1 somewebsite.com
+```
 
 4. run `flask run --cert=adhoc`
