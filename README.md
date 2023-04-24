@@ -9,6 +9,7 @@ Python implementation of the instagram basic api login as outlined here: https:/
 
 [urls]
 CALLBACK_URI = https://somewebsite.com:5000/auth/callback
+
 DASHBOARD_URI = https://somewebsite:5000/dashboard
 
 3. Add the url above the the hostfile as follows:
